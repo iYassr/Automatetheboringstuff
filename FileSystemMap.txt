@@ -1,0 +1,64 @@
+c:\\users\\xl7\\Desktop: 
+    flags: 
+        caniseeme.PNG: 
+        Capture.PNG: 
+        Capturefdsa.PNG: 
+        Captureytryret.PNG: 
+        card issue SARIE.docx: 
+        Cdddapture.PNG: 
+        cgo73285@loapq.com.PNG: 
+        Create Bootable USB.url: 
+        desktop.ini: 
+        fasd.PNG: 
+        FreeCommander XE.lnk: 
+        Google Drive.lnk: 
+        habit-tracking.xlsx: 
+        MPC-HC x64.lnk: 
+        SaudiCybers Strategy.pdf: 
+        text.txt: 
+        USB Disk Storage Format Tool.lnk: 
+        VirtualBox.lnk: 
+        WHAT..PNG: 
+        zGS9qywQgzFCMeSR7xWM.txt: 
+        ~$habit-tracking.xlsx: 
+        سيشسيش.PNG: 
+c:\\users\\xl7\\Desktop\flags: 
+    aaa: 
+    cipher: 
+    hello: 
+    n: 
+    New folder: 
+        common_mistake.pdf: 
+        Encrypted02.pcap: 
+        file1.pdf: 
+        Q301_d66b905b5e24b395b97133ee7910b5c0 (1).zip: 
+        Q406_a50761c72362924cfe69a0be48e7504b.zip: 
+        this_ought_to_be_fun.zip: 
+        WEP.cap: 
+c:\\users\\xl7\\Desktop\flags\aaa: 
+        missingextension.pdf: 
+        Q303_8cb3c08c4551aa9bf4550c97b6647837 (1).zip: 
+c:\\users\\xl7\\Desktop\flags\cipher: 
+        cool_corgi.jpg: 
+        js_deobfuscate.js: 
+        message.txt: 
+        Q202_2e55e1b5db189f4de080770be177a7b6.zip: 
+        Q204_9bf04a3add93de4a799496ea046db404.zip: 
+        Q601_7d8b7b741b8adb7bd1cc6bf758b5b94c.zip: 
+c:\\users\\xl7\\Desktop\flags\hello: 
+        Q404_dabc80f97b6f023dacb5374135d34abf.zip: 
+        tls.pcap: 
+c:\\users\\xl7\\Desktop\flags\n: 
+        .mem01.dmp.swp: 
+        mem01.dmp: 
+        outoftheordinary.pcapng: 
+        Q305_a1c2de59aa3a9a71cd14ea6a7e2b4ca1.zip: 
+        Q306_6edcd46b2734b0ca46a925387797d289.zip: 
+c:\\users\\xl7\\Desktop\flags\New folder: 
+    hi: 
+        Q102_48fc88eaf6a216d85545d23efa2a4aae (2).zip: 
+        this_ought_to_be_fun.zip: 
+c:\\users\\xl7\\Desktop\flags\New folder\hi: 
+        CyberLlama.jpg: 
+        Q501_8bb05e93c3fb0af7b6f38ac249cb1080 (1).zip: 
+        reverse_me: 

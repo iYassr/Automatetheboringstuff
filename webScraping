@@ -1,0 +1,20 @@
+import requests
+import bs4
+
+
+
+res = requests.get('https://automatetheboringstuff.com/files/rj.txt')
+file = open('rj.txt','wb')
+
+for chunk in res.iter_content():
+    file.write(chunk)
+
+file.close()
+
+
+
+res.raise_for_status()
+print(res)
+print(res.raw)
+print(res.content)
+print(res.text)

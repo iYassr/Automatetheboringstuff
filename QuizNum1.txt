@@ -1,0 +1,36 @@
+
+    Quiz Num 1    Question Number 0
+Fastest:   
+A: C++
+B: Python
+C: Java
+D: Ruby
+Correct Answer is: C++ 
+Question Number 1
+Elegentent:   
+A: Ruby
+B: C++
+C: Java
+D: Python
+Correct Answer is: Ruby 
+Question Number 2
+Weirdest:   
+A: Java
+B: Lisp
+C: Python
+D: C++
+Correct Answer is: Lisp 
+Question Number 3
+Simplist:   
+A: C++
+B: Ruby
+C: Python
+D: Java
+Correct Answer is: Python 
+Question Number 4
+Verbosest:   
+A: Ruby
+B: Python
+C: Java
+D: C++
+Correct Answer is: Java 

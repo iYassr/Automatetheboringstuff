@@ -1,0 +1,17 @@
+i mean?? 
+
+at 9 oclock you came with in idea, scarping the Othaim page to get responses
+
+you had so many challenges 
+
+first one 
+
+the freaking splash, how do you bypass it? run burp and check, is it because of the referer? no 
+cookie? freaking yes, it worked! yay
+and then how to add the cookie to requests in python, easy YAY!
+
+and then how to get the picture is full size? easy yay 
+
+and then how to scroll! p=2? freaking yes 
+
+and now it's 2 o'clock 

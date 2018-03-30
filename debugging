@@ -1,0 +1,4 @@
+x = input()
+
+if x == 'hello':
+    raise Exception("hello??????? why")
